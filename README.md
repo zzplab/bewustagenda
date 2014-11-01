@@ -9,7 +9,7 @@ Load the api class, setup configuration, filter the data and get the results in 
 PHP 5 >= 5.5.0
 
 ##Start a request
-```
+```php
 <?php
 require 'bewustagenda/api.php';
 $config = [
