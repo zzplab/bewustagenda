@@ -5,6 +5,10 @@ bewustagenda
 
 Load the api class, setup configuration, filter the data and get the results in xml or json format.
 
+##Required
+PHP 5 >= 5.5.0
+
+##The code
 ```
 <?php
 require 'bewustagenda/api.php';
