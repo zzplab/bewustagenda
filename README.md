@@ -22,6 +22,13 @@ echo $output;
 ?>
 ```
 
+##Available filters
+Get all records >= time()
+```
+$bn->set_filter('datum','all');
+```
+Meer filters op verzoek.
+
 ##Result in xml
 
 ```
