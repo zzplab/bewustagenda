@@ -62,7 +62,7 @@ Meer filters op verzoek.
 ##Result in json
 
 ```json
-{"0"
+{"0":
 	{
 		"id":""
 		,"titel":""
