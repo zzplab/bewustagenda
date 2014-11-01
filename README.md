@@ -23,7 +23,7 @@ echo $output;
 ```
 
 ##Available filters
-Get all records >= time()
+Vraag alle events op vanaf vandaag:
 ```
 $bn->set_filter('datum','all');
 ```
