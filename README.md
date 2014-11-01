@@ -28,14 +28,14 @@ echo $output;
 
 ##Available filters
 Vraag alle events op vanaf vandaag:
-```
+```php
 $bn->set_filter('datum','all');
 ```
 Meer filters op verzoek.
 
 ##Result in xml
 
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <events>
  <event>
@@ -61,7 +61,7 @@ Meer filters op verzoek.
 
 ##Result in json
 
-```
+```json
 {"0"
 	{
 		"id":""
